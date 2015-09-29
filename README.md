@@ -1,4 +1,4 @@
-# NYC_Subway_Traffic_Analysis
+# NYC Subway Traffic Analysis
 
 ###Data:  
  - [NYC MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)  
